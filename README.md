@@ -24,6 +24,9 @@ javac ExpenseTrackerPro.java
 # Run
 java ExpenseTrackerPro
 
+
+## 📸 Screenshots
+
 <img width="1299" height="617" alt="2" src="https://github.com/user-attachments/assets/46870bdd-b188-4822-af2c-ddd49348139b" />
 <img width="1307" height="620" alt="1" src="https://github.com/user-attachments/assets/1e36c337-9666-4a6d-ac82-ff5900282791" />
 
